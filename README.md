@@ -1,2 +1,5 @@
-Немного __css__ анимации.
-## Глянуть в работе: [DEMO](http://alexanderweb.ru/animation/)
+Анимация логотипа.
+
+Глянуть в работе: [codepen](http://codepen.io/alexanderweb/pen/VjbKQy)
+
+![Анимация логотипа ИТМО](http://alexanderweb.ru/tpl/images/itmo_logo.jpg)
